@@ -21,5 +21,5 @@ using UNION that combines the result of multiple SELECT Statement.
 9. Displaying selected columns which are Grouped by Product_name with HAVING Clause in Ascending order.
 Here "Employee" and "PRODUCT" tables are Joined by INNER JOIN
 
-10. Creating VIEW Table "emp_pro_sale".
+10. Creating VIEW Table "emp_pro_sale" and etc.
 
